@@ -27,31 +27,31 @@ Afin d'éxecuter le projet vous avez besoin d'un intérpréteur python ( Spyder.
 
 ## librairies utilisées
 
-*NetworkX
-*BeautifulSoup
-*Pyqt5
-*PyQt5.QtWebEngineWidgets 
-*PyQt5.QtCore 
-*PyQt5.QtGui 
-*matplotlib.image 
-*cv2
-*PandasDFModel 
-*gensim.summarization.summarizer 
-*collections import Counter
-*pandas 
-*datetime as dt
-*string
-*pickle
-*re
-*nltk.tokenize 
-*nltk.corpus 
-*nltk.stem 
-*nltk 
-*itertools
-*matplotlib.pyplot 
-*pyvis.network 
-*nltk.collocations i
-*itertools import count
-*praw
-*urllib.request
-*xmltodict  
+* NetworkX
+* BeautifulSoup
+* Pyqt5
+* PyQt5.QtWebEngineWidgets 
+* PyQt5.QtCore 
+* PyQt5.QtGui 
+* matplotlib.image 
+* cv2
+* PandasDFModel 
+* gensim.summarization.summarizer 
+* collections import Counter
+* pandas 
+* datetime as dt
+* string
+* pickle
+* re
+* nltk.tokenize 
+* nltk.corpus 
+* nltk.stem 
+* nltk 
+* itertools
+* matplotlib.pyplot 
+* pyvis.network 
+* nltk.collocations i
+* itertools import count
+* praw
+* urllib.request
+* xmltodict  
