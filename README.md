@@ -25,7 +25,7 @@ Afin d'éxecuter le projet vous avez besoin d'un intérpréteur python ( Spyder.
 *Motif, accompagné d’une barre de recherche qui permet à l’utilisateur de saisir le motif pour lequel il veut afficher son graphe des co-occurrences
 
 
-##librairies utilisées
+## librairies utilisées
 
 *NetworkX
 *BeautifulSoup
